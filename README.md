@@ -1,5 +1,6 @@
 # robofriends
-Tutorial for React
+This project is made on react
+
 To run the project:
 
 1. Clone this repo
